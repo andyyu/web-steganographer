@@ -1,7 +1,7 @@
 # Web Steganographer
 
 ```
-### ste·ga·no·graph·y
+ste·ga·no·graph·y
 
 noun
 
