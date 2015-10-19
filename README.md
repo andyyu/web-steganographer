@@ -1,6 +1,8 @@
 # Web Steganographer
 
 ste·ga·no·graph·y
+
+
 noun
 the practice of concealing messages or information within other nonsecret text or data
 
