@@ -1,12 +1,12 @@
 # Web Steganographer
 
-ste·ga·no·graph·y
-
+```
+### ste·ga·no·graph·y
 
 noun
 
-
 the practice of concealing messages or information within other nonsecret text or data
+```
 
 Web Steganographer compresses text messages and secretly injects them into the HTML of web pages. Also lets you read these hidden messages from web pages.
 
